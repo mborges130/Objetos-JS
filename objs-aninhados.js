@@ -13,4 +13,4 @@ estudantes.endereco = {
     complemento: 'apto 43'
 }
 
-console.log(estudantes.endereco);
+console.log(estudantes.endereco.rua);
